@@ -310,7 +310,7 @@ if ( is_plugin_active( 'tesseractplus-plugin/fl-builder.php' ) ) { ?>
 
   </div>
 
-  <ul><?php pll_the_languages();?></ul>
+  <ul id="language-bar"><?php pll_the_languages( array( 'show_flags' => 1,'show_names' => 0 ) );?></ul>
   <div class="slope-header"></div>
 
 </header>
@@ -377,7 +377,7 @@ if ( is_plugin_active( 'tesseractplus-plugin/fl-builder.php' ) ) { ?>
 
   </div>
 
-  <ul><?php pll_the_languages();?></ul>
+  <ul id="language-bar"><?php pll_the_languages( array( 'show_flags' => 1,'show_names' => 0 ) );?></ul>
   <div class="slope-header"></div>
 
 </header>
@@ -446,7 +446,7 @@ if ( is_plugin_active( 'tesseractplus-plugin/fl-builder.php' ) ) { ?>
 
   </div>
 
-  <ul><?php pll_the_languages();?></ul>
+  <ul id="language-bar"><?php pll_the_languages( array( 'show_flags' => 1,'show_names' => 0 ) );?></ul>
   <div class="slope-header"></div>
 
 </header>
@@ -511,7 +511,7 @@ if ( is_plugin_active( 'tesseractplus-plugin/fl-builder.php' ) ) { ?>
 
   </div>
 
-  <ul><?php pll_the_languages();?></ul>
+  <ul id="language-bar"><?php pll_the_languages( array( 'show_flags' => 1,'show_names' => 0 ) );?></ul>
   <div class="slope-header"></div>
 
 </header>
@@ -580,7 +580,7 @@ if ( is_plugin_active( 'tesseractplus-plugin/fl-builder.php' ) ) { ?>
 
   </div>
 
-  <ul><?php pll_the_languages();?></ul>
+  <ul id="language-bar"><?php pll_the_languages( array( 'show_flags' => 1,'show_names' => 0 ) );?></ul>
   <div class="slope-header"></div>
 
 </header>
@@ -643,7 +643,7 @@ if ( is_plugin_active( 'tesseractplus-plugin/fl-builder.php' ) ) { ?>
 
   </div>
 
-  <ul><?php pll_the_languages();?></ul>
+  <ul id="language-bar"><?php pll_the_languages( array( 'show_flags' => 1,'show_names' => 0 ) );?></ul>
   <div class="slope-header"></div>
 
 </header>
@@ -702,7 +702,7 @@ if ( is_plugin_active( 'tesseractplus-plugin/fl-builder.php' ) ) { ?>
 
   </div>
 
-  <ul><?php pll_the_languages();?></ul>
+  <ul id="language-bar"><?php pll_the_languages( array( 'show_flags' => 1,'show_names' => 0 ) );?></ul>
   <div class="slope-header"></div>
 
 </header>
@@ -761,7 +761,7 @@ if ( is_plugin_active( 'tesseractplus-plugin/fl-builder.php' ) ) { ?>
 
   </div>
 
-  <ul><?php pll_the_languages();?></ul>
+  <ul id="language-bar"><?php pll_the_languages( array( 'show_flags' => 1,'show_names' => 0 ) );?></ul>
   <div class="slope-header"></div>
 
 </header>
@@ -834,7 +834,7 @@ if ( is_plugin_active( 'tesseractplus-plugin/fl-builder.php' ) ) { ?>
 
   </div>
 
-  <ul><?php pll_the_languages();?></ul>
+  <ul id="language-bar"><?php pll_the_languages( array( 'show_flags' => 1,'show_names' => 0 ) );?></ul>
   <div class="slope-header"></div>
 
 </header>
